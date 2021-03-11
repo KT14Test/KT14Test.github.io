@@ -3,11 +3,14 @@
 
 <head>
   <title>Sombrero Worm Test Site</title>
-  <css>
+  <style>
     .test {
       color: "#FF0000";
     }
-  </css>
+  </style>
 </head>
 
-# Test Site
+<h1 class="test">Test Site</hi>
+
+That was and html header, but this is markdown text.
+Pretty cool right?
