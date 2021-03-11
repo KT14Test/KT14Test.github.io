@@ -10,7 +10,7 @@
   </style>
 </head>
 
-<h1 class="test">Test Site</hi>
+<h1 class="test">Test Site</h1>
 
 That was and html header, but this is markdown text.
 Pretty cool right?
