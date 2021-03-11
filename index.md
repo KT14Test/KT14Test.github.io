@@ -1,7 +1,7 @@
 <head>
   <title>Sombrero Worm Test Site</title>
   <css>
-    .test: {
+    .test {
       color: "#FF0000"
     }
   </css>
