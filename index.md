@@ -1,6 +1,3 @@
-
-[//]: # "Commit v0.1.2"
-
 <head>
   <title>Sombrero Worm Test Site</title>
   <style>
@@ -14,3 +11,6 @@
 
 That was and html header, but this is markdown text.
 Pretty cool right?
+
+
+[//]: # "Commit v0.1.2"
